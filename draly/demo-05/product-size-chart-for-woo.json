@@ -7,7 +7,7 @@
   "multi_sc": 1,
   "button_type": "text",
   "btn_color": "#ffffff",
-  "text_color": "#2bbef9",
+  "text_color": "#43c3c6",
   "pscw_icon": "ruler-icon-2",
   "custom_css": "",
   "cus_design": "",
@@ -17,4 +17,5 @@
   "cus_image": "",
   "cus_divider": "",
   "cus_accordion": ""
+
 }
