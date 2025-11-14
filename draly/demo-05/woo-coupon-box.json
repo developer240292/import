@@ -61,7 +61,7 @@
   "wcb_recaptcha_secret_theme": "light",
   "wcb_border_radius": 8,
   "wcb_social_icons_facebook_select": "wcb_social_icons-facebook-circular-logo",
-  "wcb_button_bg_color": "#2bbef9",
+  "wcb_button_bg_color": "#43c3c6",
   "wcb_social_icons_size": 37,
   "wcb_social_icons_facebook_url": "villatheme",
   "wcb_social_icons_twitter_url": "villatheme",
@@ -95,7 +95,7 @@
   "wcb_button_close_position_y": 16,
   "wcb_no_thank_button_enable": "",
   "wcb_message_size": 20,
-  "wcb_bg_header": "#2bbef9",
+  "wcb_bg_header": "#43c3c6",
   "wcb_color_follow_us": "#000000",
   "wcb_title": "WANT 10% OFF?",
   "wcb_no_thank_button_border_radius": 0,
@@ -103,4 +103,5 @@
   "wcb_title_space": 14,
   "alpha_color_overlay": "rgba(0,0,0,0.5)",
   "wcb_body_text_color": "#000000"
+
 }
