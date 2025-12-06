@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.3" created="2025-11-12 10:07" -->
+	<!-- generator="WordPress/6.9" created="2025-12-06 07:06" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>VIMart Minimal Market</title>
 	<link>https://mini.new2new.com</link>
 	<description></description>
-	<pubDate>Wed, 12 Nov 2025 10:07:58 +0000</pubDate>
+	<pubDate>Sat, 06 Dec 2025 07:06:03 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://mini.new2new.com</wp:base_site_url>
@@ -830,7 +830,7 @@
 	<wp:term><wp:term_id>49</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[vertical-menu]]></wp:term_slug><wp:term_name><![CDATA[Vertical Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.8.3</generator>
+	<generator>https://wordpress.org/?v=6.9</generator>
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
@@ -6610,7 +6610,7 @@ New Collection for Women</h2>					Shine with the season’s most stylish looks		
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{"timeout":1763001208,"value":{"content":"<div class=\"elementor-element elementor-element-33e2cab e-con-full e-flex e-con e-parent\" data-id=\"33e2cab\" data-element_type=\"container\" id=\"content\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t<div class=\"elementor-element elementor-element-ac79735 e-con-full e-flex e-con e-child\" data-id=\"ac79735\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-1ee96a1 e-con-full banner-zoom e-flex e-con e-child\" data-id=\"1ee96a1\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a54cc78 elementor-widget elementor-widget-heading\" data-id=\"a54cc78\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">New Shoe<br>\nCollection Launch<\/h1>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-bc978d3 elementor-widget elementor-widget-heading\" data-id=\"bc978d3\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Discover modern style, lead the trend<\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-ad6e6dc elementor-widget elementor-widget-button\" data-id=\"ad6e6dc\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Shop Now<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-49ac284 e-con-full e-flex e-con e-child\" data-id=\"49ac284\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-6bf667c e-con-full banner-zoom e-flex e-con e-child\" data-id=\"6bf667c\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-8d62f22 elementor-widget elementor-widget-heading\" data-id=\"8d62f22\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Special Treat<br>\nFor New Customers<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-97e2c0c elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"97e2c0c\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Enjoy 10% off your first order\nwith code \u201cWELCOME\u201d<\/div>\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-5ede45a e-con-full banner-zoom e-flex e-con e-child\" data-id=\"5ede45a\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-12b8107 elementor-widget elementor-widget-heading\" data-id=\"12b8107\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Up to 40% OFF<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-7a01f5b elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"7a01f5b\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Elevate your style with our best prices of the season<\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8168d9a elementor-widget elementor-widget-button\" data-id=\"8168d9a\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Shop Now<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-cc989f7 e-flex e-con-boxed e-con e-parent\" data-id=\"cc989f7\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-58bb7d1 e-grid e-con-full e-con e-child\" data-id=\"58bb7d1\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-265a1a1 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"265a1a1\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/ship.jpg\" class=\"attachment-full size-full wp-image-692\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Free shipping<\/h3><p class=\"elementor-image-box-description\">For all order over $100<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-44fdb68 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"44fdb68\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/sup.jpg\" class=\"attachment-full size-full wp-image-702\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Support 24\/7<\/h3><p class=\"elementor-image-box-description\">Support online 7 days a week<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c002aec elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"c002aec\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/pay.jpg\" class=\"attachment-full size-full wp-image-703\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Payment<\/h3><p class=\"elementor-image-box-description\">100% payment security<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-027b470 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"027b470\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/off.jpg\" class=\"attachment-full size-full wp-image-704\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Special offers<\/h3><p class=\"elementor-image-box-description\">Multiple exclusive deals for you!<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-b35d56c e-flex e-con-boxed e-con e-parent\" data-id=\"b35d56c\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c4019b1 elementor-widget elementor-widget-heading\" data-id=\"c4019b1\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Collection<\/h2>\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-43d1ff6 e-grid e-con-boxed e-con e-parent\" data-id=\"43d1ff6\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-17dc947 e-con-full e-flex e-con e-child\" data-id=\"17dc947\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e4282ab elementor-widget elementor-widget-heading\" data-id=\"e4282ab\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Shop Fashion for less<\/h3>\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-cc3a4c5 e-grid e-con-full e-con e-child\" data-id=\"cc3a4c5\" data-element_type=\"container\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjA5N2JmNTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoibWVucy1jbG90aGluZyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImU2MWJmNjciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoid29tZW5zLWNsb3RoaW5nIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjJjNTk4OTYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiZmFzaGlvbi1hY2Nlc3NvcmllcyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjgyOWNmMWMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoia2lkcy1jbG90aGluZyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-6594ed9 e-con-full e-flex e-con e-child\" data-id=\"6594ed9\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-da14c0c elementor-widget elementor-widget-heading\" data-id=\"da14c0c\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Shop for your home essentials<\/h3>\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c03866a e-grid e-con-full e-con e-child\" data-id=\"c03866a\" data-element_type=\"container\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjAwNWM5ZDQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiY2xlYW5pbmctc3VwcGxpZXMifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiY2F0ZWdvcnkifQ==\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImU5MzU0ZjQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiaG9tZS1zdG9yYWdlIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjMzNmFiYzEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiaG9tZS1kZWNvciJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjAyNTk0NzMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiYmVkZGluZyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-a0d7727 e-con-full e-flex e-con e-child\" data-id=\"a0d7727\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-36ddf44 elementor-widget elementor-widget-heading\" data-id=\"36ddf44\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Elevate your Electronics<\/h3>\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-eb96d34 e-grid e-con-full e-con e-child\" data-id=\"eb96d34\" data-element_type=\"container\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjhjNDdkMzUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiaGVhZHBob25lIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImI5NjBkN2MiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoidGFibGV0cyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjEyNWNkM2UiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiZ2FtaW5nIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjZmMWQxZWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoic3BlYWtlcnMifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiY2F0ZWdvcnkifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-132d655 e-flex e-con-boxed e-con e-parent\" data-id=\"132d655\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ad510d8 elementor-widget elementor-widget-heading\" data-id=\"ad510d8\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Best seller<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-264d8ab elementor-widget elementor-widget-button\" data-id=\"264d8ab\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">View all<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-da31cc1 e-flex e-con-boxed e-con e-parent\" data-id=\"da31cc1\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6Ijc3NDhjYTMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbYmVzdF9zZWxsaW5nX3Byb2R1Y3RzIGxpbWl0PVwiNlwiXSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzaG9ydGNvZGUifQ==\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-bf81a76 e-flex e-con-boxed e-con e-parent\" data-id=\"bf81a76\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-6d4095d e-con-full banner-zoom e-flex e-con e-child\" data-id=\"6d4095d\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-76bd54f elementor-widget elementor-widget-heading\" data-id=\"76bd54f\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Discover This Season\u2019s <br>\nNew Collection for Women<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0d49cf4 elementor-widget elementor-widget-heading\" data-id=\"0d49cf4\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Shine with the season\u2019s most stylish looks<\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-dc83542 elementor-widget elementor-widget-button\" data-id=\"dc83542\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">View all<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-1e0ae4c e-flex e-con-boxed e-con e-parent\" data-id=\"1e0ae4c\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-27a25db elementor-widget elementor-widget-heading\" data-id=\"27a25db\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Our new product<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-cfa7614 elementor-widget elementor-widget-button\" data-id=\"cfa7614\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">View all<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4d89c96 e-flex e-con-boxed e-con e-parent\" data-id=\"4d89c96\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImMxYzkxODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbcmVjZW50X3Byb2R1Y3RzIGxpbWl0PVwiMTJcIl0ifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoic2hvcnRjb2RlIn0=\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[{"timeout":1765081108,"value":{"content":"<div class=\"elementor-element elementor-element-33e2cab e-con-full e-flex e-con e-parent\" data-id=\"33e2cab\" data-element_type=\"container\" id=\"content\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t<div class=\"elementor-element elementor-element-ac79735 e-con-full e-flex e-con e-child\" data-id=\"ac79735\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-1ee96a1 e-con-full banner-zoom e-flex e-con e-child\" data-id=\"1ee96a1\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a54cc78 elementor-widget elementor-widget-heading\" data-id=\"a54cc78\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">New Shoe<br>\nCollection Launch<\/h1>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-bc978d3 elementor-widget elementor-widget-heading\" data-id=\"bc978d3\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Discover modern style, lead the trend<\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-ad6e6dc elementor-widget elementor-widget-button\" data-id=\"ad6e6dc\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Shop Now<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-49ac284 e-con-full e-flex e-con e-child\" data-id=\"49ac284\" data-element_type=\"container\">\n\t\t<div class=\"elementor-element elementor-element-6bf667c e-con-full banner-zoom e-flex e-con e-child\" data-id=\"6bf667c\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-8d62f22 elementor-widget elementor-widget-heading\" data-id=\"8d62f22\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Special Treat<br>\nFor New Customers<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-97e2c0c elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"97e2c0c\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Enjoy 10% off your first order\nwith code \u201cWELCOME\u201d<\/div>\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-5ede45a e-con-full banner-zoom e-flex e-con e-child\" data-id=\"5ede45a\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-12b8107 elementor-widget elementor-widget-heading\" data-id=\"12b8107\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Up to 40% OFF<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-7a01f5b elementor-widget__width-initial elementor-widget elementor-widget-heading\" data-id=\"7a01f5b\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Elevate your style with our best prices of the season<\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8168d9a elementor-widget elementor-widget-button\" data-id=\"8168d9a\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Shop Now<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-cc989f7 e-flex e-con-boxed e-con e-parent\" data-id=\"cc989f7\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-58bb7d1 e-grid e-con-full e-con e-child\" data-id=\"58bb7d1\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-265a1a1 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"265a1a1\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/ship.jpg\" class=\"attachment-full size-full wp-image-692\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Free shipping<\/h3><p class=\"elementor-image-box-description\">For all order over $100<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-44fdb68 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"44fdb68\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/sup.jpg\" class=\"attachment-full size-full wp-image-702\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Support 24\/7<\/h3><p class=\"elementor-image-box-description\">Support online 7 days a week<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c002aec elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"c002aec\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/pay.jpg\" class=\"attachment-full size-full wp-image-703\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Payment<\/h3><p class=\"elementor-image-box-description\">100% payment security<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-027b470 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box\" data-id=\"027b470\" data-element_type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><img width=\"60\" height=\"60\" src=\"https:\/\/mini.new2new.com\/wp-content\/uploads\/2025\/10\/off.jpg\" class=\"attachment-full size-full wp-image-704\" alt=\"\" \/><\/figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\">Special offers<\/h3><p class=\"elementor-image-box-description\">Multiple exclusive deals for you!<\/p><\/div><\/div>\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-b35d56c e-flex e-con-boxed e-con e-parent\" data-id=\"b35d56c\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c4019b1 elementor-widget elementor-widget-heading\" data-id=\"c4019b1\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Collection<\/h2>\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-43d1ff6 e-grid e-con-boxed e-con e-parent\" data-id=\"43d1ff6\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-17dc947 e-con-full e-flex e-con e-child\" data-id=\"17dc947\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e4282ab elementor-widget elementor-widget-heading\" data-id=\"e4282ab\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Shop Fashion for less<\/h3>\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-cc3a4c5 e-grid e-con-full e-con e-child\" data-id=\"cc3a4c5\" data-element_type=\"container\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjA5N2JmNTUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoibWVucy1jbG90aGluZyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImU2MWJmNjciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoid29tZW5zLWNsb3RoaW5nIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjJjNTk4OTYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiZmFzaGlvbi1hY2Nlc3NvcmllcyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjgyOWNmMWMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoia2lkcy1jbG90aGluZyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-6594ed9 e-con-full e-flex e-con e-child\" data-id=\"6594ed9\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-da14c0c elementor-widget elementor-widget-heading\" data-id=\"da14c0c\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Shop for your home essentials<\/h3>\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-c03866a e-grid e-con-full e-con e-child\" data-id=\"c03866a\" data-element_type=\"container\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjAwNWM5ZDQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiY2xlYW5pbmctc3VwcGxpZXMifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiY2F0ZWdvcnkifQ==\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImU5MzU0ZjQiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiaG9tZS1zdG9yYWdlIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjMzNmFiYzEiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiaG9tZS1kZWNvciJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjAyNTk0NzMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiYmVkZGluZyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-a0d7727 e-con-full e-flex e-con e-child\" data-id=\"a0d7727\" data-element_type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t<div class=\"elementor-element elementor-element-36ddf44 elementor-widget elementor-widget-heading\" data-id=\"36ddf44\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h3 class=\"elementor-heading-title elementor-size-default\">Elevate your Electronics<\/h3>\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-eb96d34 e-grid e-con-full e-con e-child\" data-id=\"eb96d34\" data-element_type=\"container\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjhjNDdkMzUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiaGVhZHBob25lIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImI5NjBkN2MiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoidGFibGV0cyJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJjYXRlZ29yeSJ9\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjEyNWNkM2UiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoiZ2FtaW5nIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImNhdGVnb3J5In0=\"][elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6IjZmMWQxZWUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjYXRlZ29yeV9zbHVnIjoic3BlYWtlcnMifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiY2F0ZWdvcnkifQ==\"]\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-132d655 e-flex e-con-boxed e-con e-parent\" data-id=\"132d655\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ad510d8 elementor-widget elementor-widget-heading\" data-id=\"ad510d8\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Best seller<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-264d8ab elementor-widget elementor-widget-button\" data-id=\"264d8ab\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">View all<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-da31cc1 e-flex e-con-boxed e-con e-parent\" data-id=\"da31cc1\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6Ijc3NDhjYTMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbYmVzdF9zZWxsaW5nX3Byb2R1Y3RzIGxpbWl0PVwiNlwiXSJ9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJzaG9ydGNvZGUifQ==\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-bf81a76 e-flex e-con-boxed e-con e-parent\" data-id=\"bf81a76\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t<div class=\"elementor-element elementor-element-6d4095d e-con-full banner-zoom e-flex e-con e-child\" data-id=\"6d4095d\" data-element_type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-76bd54f elementor-widget elementor-widget-heading\" data-id=\"76bd54f\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Discover This Season\u2019s <br>\nNew Collection for Women<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0d49cf4 elementor-widget elementor-widget-heading\" data-id=\"0d49cf4\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<div class=\"elementor-heading-title elementor-size-default\">Shine with the season\u2019s most stylish looks<\/div>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-dc83542 elementor-widget elementor-widget-button\" data-id=\"dc83542\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">View all<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-1e0ae4c e-flex e-con-boxed e-con e-parent\" data-id=\"1e0ae4c\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-27a25db elementor-widget elementor-widget-heading\" data-id=\"27a25db\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Our new product<\/h2>\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-cfa7614 elementor-widget elementor-widget-button\" data-id=\"cfa7614\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"#\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">View all<\/span>\n\t\t\t\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-4d89c96 e-flex e-con-boxed e-con e-parent\" data-id=\"4d89c96\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element k=\"4edc8d248f90079a9ae662be1edd6ca6\" data=\"eyJpZCI6ImMxYzkxODciLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJzaG9ydGNvZGUiOiJbcmVjZW50X3Byb2R1Y3RzIGxpbWl0PVwiMTJcIl0ifSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoic2hvcnRjb2RlIn0=\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8247,8 +8247,8 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 01:54:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 01:54:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blue-cropped-cardigan-women-clothing-knitted-short-sweaters-for-women-long-sleeve-button-cardigans-women-autumn-jersey-knitwears]]></wp:post_name>
@@ -8305,7 +8305,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		<wp:meta_value><![CDATA[36.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -8321,7 +8321,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -8363,6 +8363,10 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1791935999]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[blue-cropped-cardigan-women-clothing-knitted-short-sweaters-for-women-long-sleeve-button-cardigans-women-autumn-jersey-knitwears__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
 			<wp:comment_author><![CDATA[vicom_market]]></wp:comment_author>
@@ -8398,8 +8402,8 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 02:04:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 02:04:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[customizable-logo-blank-colorful-handbag-canvas-bag-shopping-environmentally-friendly-handbag-shoulder-canvas-bag]]></wp:post_name>
@@ -8472,7 +8476,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[61]]></wp:meta_value>
+		<wp:meta_value><![CDATA[61.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -8488,7 +8492,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -8501,6 +8505,10 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[customizable-logo-blank-colorful-handbag-canvas-bag-shopping-environmentally-friendly-handbag-shoulder-canvas-bag__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
@@ -8537,8 +8545,8 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 02:40:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 02:40:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gti-tartan-makeup-bag-cosmetic-organizer-storage-dopp-kit-toiletry-cosmetic-bag-for-women-beauty-travel-pencil-case]]></wp:post_name>
@@ -8611,7 +8619,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		<wp:meta_value><![CDATA[31.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -8627,7 +8635,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -8648,6 +8656,10 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1791935999]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[gti-tartan-makeup-bag-cosmetic-organizer-storage-dopp-kit-toiletry-cosmetic-bag-for-women-beauty-travel-pencil-case__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
@@ -8684,8 +8696,8 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 02:48:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 02:48:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[half-frame-reading-glasses-presbyopic-eyewear-male-female-far-sight-glasses-ultra-light-black-red-with-strength-75-to-400]]></wp:post_name>
@@ -8750,7 +8762,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		<wp:meta_value><![CDATA[39.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -8766,7 +8778,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -8787,6 +8799,10 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[half-frame-reading-glasses-presbyopic-eyewear-male-female-far-sight-glasses-ultra-light-black-red-with-strength-75-to-400__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>6</wp:comment_id>
@@ -8823,8 +8839,8 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 02:52:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 02:52:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[handmade-goodyear-vintage-british-men-ankle-boots-autumn-winter-cow-leather-shoes-luxury-tooling-round-toe-motorcycle-boots]]></wp:post_name>
@@ -8897,7 +8913,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -8913,7 +8929,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -8938,6 +8954,10 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1791935999]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[handmade-goodyear-vintage-british-men-ankle-boots-autumn-winter-cow-leather-shoes-luxury-tooling-round-toe-motorcycle-boots__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
@@ -8974,8 +8994,8 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 02:54:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 02:54:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:02:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:02:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl]]></wp:post_name>
@@ -9025,7 +9045,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
@@ -9053,7 +9073,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[94]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -9069,7 +9089,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -9078,6 +9098,14 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:8:"pa_color";a:6:{s:4:"name";s:8:"pa_color";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:1;}s:7:"pa_size";a:6:{s:4:"name";s:7:"pa_size";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:4;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -9098,10 +9126,6 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[164]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:4;i:1;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>8</wp:comment_id>
@@ -9138,8 +9162,8 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 02:57:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 02:57:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:02:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:02:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hot-fashion-summer-casual-unisex-beach-trilby-large-brim-jazz-sun-hat-panama-hat-paper-straw-women-men-cap-with-black-ribbon]]></wp:post_name>
@@ -9151,7 +9175,6 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product_cat" nicename="bedding"><![CDATA[Bedding]]></category>
 		<category domain="product_cat" nicename="kids-clothing"><![CDATA[Kid’s clothing]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="stylist"><![CDATA[Stylist]]></category>
@@ -9186,7 +9209,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
@@ -9214,11 +9237,11 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[41]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -9230,7 +9253,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -9243,6 +9266,10 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[157]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hot-fashion-summer-casual-unisex-beach-trilby-large-brim-jazz-sun-hat-panama-hat-paper-straw-women-men-cap-with-black-ribbon__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>9</wp:comment_id>
@@ -9279,8 +9306,8 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:post_id>126</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 02:59:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 02:59:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[large-soft-puffer-bag-women-big-size-college-students-laptop-book-quilted-tote-bag-lady-down-filled-shopping-school-bags]]></wp:post_name>
@@ -9354,7 +9381,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		<wp:meta_value><![CDATA[36.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -9370,7 +9397,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -9395,6 +9422,10 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1791935999]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[large-soft-puffer-bag-women-big-size-college-students-laptop-book-quilted-tote-bag-lady-down-filled-shopping-school-bags__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>10</wp:comment_id>
@@ -9431,8 +9462,8 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 03:02:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 03:02:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:03:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:03:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops]]></wp:post_name>
@@ -9483,7 +9514,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
@@ -9511,7 +9542,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[84]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -9527,7 +9558,7 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -9556,6 +9587,10 @@ Commenter avatars come from <a href=\"https://gravatar.com/\" rel=\"nofollow ugc
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>11</wp:comment_id>
@@ -9839,8 +9874,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 03:04:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 03:04:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[men-shoes-spring-new-fashion-all-match-canvas-shoes-male-large-size-breathable-footwear-casual-business-shoe-zapatos-hombre]]></wp:post_name>
@@ -9914,7 +9949,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		<wp:meta_value><![CDATA[51.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -9930,7 +9965,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -9955,6 +9990,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1791935999]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[men-shoes-spring-new-fashion-all-match-canvas-shoes-male-large-size-breathable-footwear-casual-business-shoe-zapatos-hombre__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>12</wp:comment_id>
@@ -9991,8 +10030,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 03:06:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 03:06:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mens-t-shirt-pure-color-v-collar-short-sleeved-tops-tees-men-t-shirt-black-tights-man-t-shirts-fitness-for-male-clothes]]></wp:post_name>
@@ -10067,7 +10106,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		<wp:meta_value><![CDATA[22.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -10083,7 +10122,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -10108,6 +10147,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1791935999]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mens-t-shirt-pure-color-v-collar-short-sleeved-tops-tees-men-t-shirt-black-tights-man-t-shirts-fitness-for-male-clothes__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>14</wp:comment_id>
@@ -10144,8 +10187,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>144</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 03:09:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 03:09:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mens-t-shirt-casual-short-sleeved-tees-long-sleeve-o-neck-sweat-absorbent-combat-t-shirt-hunt-airsoft-t-shirts-hunting]]></wp:post_name>
@@ -10210,7 +10253,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[14.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -10226,7 +10269,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -10247,6 +10290,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mens-t-shirt-casual-short-sleeved-tees-long-sleeve-o-neck-sweat-absorbent-combat-t-shirt-hunt-airsoft-t-shirts-hunting__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>13</wp:comment_id>
@@ -10283,8 +10330,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>153</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 03:12:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 03:12:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:03:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:03:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt]]></wp:post_name>
@@ -10335,7 +10382,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
@@ -10363,7 +10410,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -10379,7 +10426,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -10412,6 +10459,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>16</wp:comment_id>
@@ -10448,8 +10499,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 03:15:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 03:15:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:03:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:03:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-casual-handbags-female-messenger-bags-versatile]]></wp:post_name>
@@ -10500,7 +10551,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
@@ -10528,7 +10579,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -10544,7 +10595,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -10582,6 +10633,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-casual-handbags-female-messenger-bags-versatile__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>18</wp:comment_id>
 			<wp:comment_author><![CDATA[vicom_market]]></wp:comment_author>
@@ -10617,14 +10672,14 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>234</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:18:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:18:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:20:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:20:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:02:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:02:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>116</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -10698,7 +10753,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -10716,6 +10771,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[124]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hip Hop Loose Mens Streetwear T-shirts Casual Classic 2025 Summer Short Sleeves T Shirt Black White Tshirt Tees Oversize 5XL - Gray]]></title>
@@ -10729,14 +10788,14 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>235</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:18:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:18:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:20:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:20:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:02:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:02:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>116</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -10810,7 +10869,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -10828,6 +10887,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[157]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl-2__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hip Hop Loose Mens Streetwear T-shirts Casual Classic 2025 Summer Short Sleeves T Shirt Black White Tshirt Tees Oversize 5XL - Red]]></title>
@@ -10841,14 +10904,14 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>236</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:18:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:18:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:20:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:20:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:02:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:02:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl-3]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>116</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -10922,7 +10985,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -10940,6 +11003,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[159]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl-3__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hip Hop Loose Mens Streetwear T-shirts Casual Classic 2025 Summer Short Sleeves T Shirt Black White Tshirt Tees Oversize 5XL - Yellow]]></title>
@@ -10953,14 +11020,14 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>237</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:18:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:18:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:20:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:20:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:02:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:02:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl-4]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>116</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -11034,7 +11101,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -11052,6 +11119,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[136]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl-4__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Hip Hop Loose Mens Streetwear T-shirts Casual Classic 2025 Summer Short Sleeves T Shirt Black White Tshirt Tees Oversize 5XL - Pink]]></title>
@@ -11065,14 +11136,14 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>238</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:18:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:18:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:20:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:20:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 07:02:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 07:02:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl-5]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>116</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -11146,7 +11217,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -11164,6 +11235,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[164]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hip-hop-loose-mens-streetwear-t-shirts-casual-classic-2025-summer-short-sleeves-t-shirt-black-white-tshirt-tees-oversize-5xl-5__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Men Businses T-shirts Casual Male Stand Collar Short Sleeve Patchwork T-shirt Tops - Green]]></title>
@@ -11177,8 +11252,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>239</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:22:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:22:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:24:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:24:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops]]></wp:post_name>
@@ -11276,6 +11351,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[134]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Men Businses T-shirts Casual Male Stand Collar Short Sleeve Patchwork T-shirt Tops - Yellow]]></title>
@@ -11289,8 +11368,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>240</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:22:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:22:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:24:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:24:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops-2]]></wp:post_name>
@@ -11388,6 +11467,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[128]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops-2__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Men Businses T-shirts Casual Male Stand Collar Short Sleeve Patchwork T-shirt Tops - White]]></title>
@@ -11401,8 +11484,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>241</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:22:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:22:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:24:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:24:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops-3]]></wp:post_name>
@@ -11500,6 +11583,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[215]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops-3__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Men Businses T-shirts Casual Male Stand Collar Short Sleeve Patchwork T-shirt Tops - Black]]></title>
@@ -11513,8 +11600,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>242</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:22:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:22:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:24:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:24:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops-4]]></wp:post_name>
@@ -11612,6 +11699,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[128]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops-4__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Men Businses T-shirts Casual Male Stand Collar Short Sleeve Patchwork T-shirt Tops - Pink]]></title>
@@ -11625,8 +11716,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>243</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:22:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:22:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:24:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:24:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops-5]]></wp:post_name>
@@ -11724,6 +11815,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[187]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[men-businses-t-shirts-casual-male-stand-collar-short-sleeve-patchwork-t-shirt-tops-5__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Plus Size 7XL 8XL Summer Elegant T Shirt Men Short Sleeve Turn Down Collar 95% Cotton Soft Solid Color Tops Tee Men T-shirt - Dark]]></title>
@@ -11737,8 +11832,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>245</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:29:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:29:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:32:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:32:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt]]></wp:post_name>
@@ -11836,6 +11931,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[194]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Plus Size 7XL 8XL Summer Elegant T Shirt Men Short Sleeve Turn Down Collar 95% Cotton Soft Solid Color Tops Tee Men T-shirt - Blue]]></title>
@@ -11849,8 +11948,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>246</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:29:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:29:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:32:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:32:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt-2]]></wp:post_name>
@@ -11944,6 +12043,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[154]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt-2__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Plus Size 7XL 8XL Summer Elegant T Shirt Men Short Sleeve Turn Down Collar 95% Cotton Soft Solid Color Tops Tee Men T-shirt - White]]></title>
@@ -11957,8 +12060,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>247</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:30:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:30:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:32:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:32:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt-3]]></wp:post_name>
@@ -12056,6 +12159,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[176]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt-3__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Metal Pinhole Glasses Exercise Eyewear Eyesight Improvement for Vision Training]]></title>
@@ -12069,8 +12176,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>727</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 03:10:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 03:10:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[metal-pinhole-glasses-exercise-eyewear-eyesight-improvement-for-vision-training-2]]></wp:post_name>
@@ -12140,7 +12247,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[34.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -12156,7 +12263,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -12169,6 +12276,14 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:4;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[metal-pinhole-glasses-exercise-eyewear-eyesight-improvement-for-vision-training-2__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>32</wp:comment_id>
@@ -12209,8 +12324,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>729</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-02 03:13:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-02 03:13:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-22 00:57:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-22 00:57:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ribbon-fedora-hat-new-felt-hat-jazz-hat-fashion-european-and-american-hats-men-and-women-general-hats-2]]></wp:post_name>
@@ -12273,7 +12388,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[41]]></wp:meta_value>
+		<wp:meta_value><![CDATA[41.000000]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
@@ -12289,7 +12404,7 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.2.2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[10.3.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -12306,6 +12421,14 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{i:4;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ribbon-fedora-hat-new-felt-hat-jazz-hat-fashion-european-and-american-hats-men-and-women-general-hats-2__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>34</wp:comment_id>
@@ -12658,8 +12781,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>248</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:30:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:30:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:32:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:32:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt-4]]></wp:post_name>
@@ -12757,6 +12880,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[174]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt-4__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Plus Size 7XL 8XL Summer Elegant T Shirt Men Short Sleeve Turn Down Collar 95% Cotton Soft Solid Color Tops Tee Men T-shirt - Black]]></title>
@@ -12770,8 +12897,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>249</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:30:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:30:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:32:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:32:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt-5]]></wp:post_name>
@@ -12869,6 +12996,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[118]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[plus-size-7xl-8xl-summer-elegant-t-shirt-men-short-sleeve-turn-down-collar-95-cotton-soft-solid-color-tops-tee-men-t-shirt-5__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Woman Quality Soft Bag Ladies Cow Genuine Leather Shoulder Bags for Women Casual Handbags Female Messenger Bags Versatile - Black]]></title>
@@ -12882,8 +13013,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>250</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:34:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:34:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:36:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:36:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile]]></wp:post_name>
@@ -12981,6 +13112,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[157]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Woman Quality Soft Bag Ladies Cow Genuine Leather Shoulder Bags for Women Casual Handbags Female Messenger Bags Versatile - Blue]]></title>
@@ -12994,8 +13129,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>251</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:34:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:34:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:36:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:36:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile-2]]></wp:post_name>
@@ -13093,6 +13228,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[158]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile-2__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Woman Quality Soft Bag Ladies Cow Genuine Leather Shoulder Bags for Women Casual Handbags Female Messenger Bags Versatile - Red]]></title>
@@ -13106,8 +13245,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>252</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:34:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:34:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:36:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:36:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile-3]]></wp:post_name>
@@ -13205,6 +13344,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[169]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile-3__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Woman Quality Soft Bag Ladies Cow Genuine Leather Shoulder Bags for Women Casual Handbags Female Messenger Bags Versatile - White]]></title>
@@ -13218,8 +13361,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>253</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:34:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:34:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:36:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:36:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile-4]]></wp:post_name>
@@ -13317,6 +13460,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[180]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile-4__trashed]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Woman Quality Soft Bag Ladies Cow Genuine Leather Shoulder Bags for Women Casual Handbags Female Messenger Bags Versatile - Pink]]></title>
@@ -13330,8 +13477,8 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 		<wp:post_id>254</wp:post_id>
 		<wp:post_date><![CDATA[2025-10-03 01:34:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-10-03 01:34:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-10-03 01:36:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-10-03 01:36:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-06 02:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-06 02:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile-5]]></wp:post_name>
@@ -13428,6 +13575,10 @@ experience always wins</h2>		<p>Lorem ipsum dolor sit amet, consectetur adipisci
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[166]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woman-quality-soft-bag-ladies-cow-genuine-leather-shoulder-bags-for-women-2024-casual-handbags-female-messenger-bags-versatile-5__trashed]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
