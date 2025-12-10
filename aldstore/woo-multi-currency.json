@@ -1,0 +1,50 @@
+{
+  "enable": 1,
+  "currency_default": "USD",
+  "currency_hidden": [
+    0,
+    0
+  ],
+  "currency": [
+    "USD",
+    "EUR"
+  ],
+  "currency_pos": [
+    "left",
+    "left"
+  ],
+  "currency_rate": [
+    1,
+    1
+  ],
+  "currency_rate_fee": [
+    0,
+    0
+  ],
+  "currency_decimals": [
+    2,
+    2
+  ],
+  "currency_custom": [
+    "",
+    ""
+  ],
+  "auto_detect": 0,
+  "geo_api": 0,
+  "conditional_tags": "",
+  "design_title": "Select your currency",
+  "design_position": 1,
+  "text_color": "#ffffff",
+  "sidebar_style": 0,
+  "main_color": "#f78080",
+  "background_color": "#212121",
+  "price_switcher": 0,
+  "price_switcher_position": 20,
+  "flag_custom": "",
+  "shortcode_color": "#212121",
+  "shortcode_bg_color": "#ffffff",
+  "shortcode_active_color": "#212121",
+  "shortcode_active_bg_color": "#ffffff",
+  "custom_css": "",
+  "rate_decimals": 5
+}
